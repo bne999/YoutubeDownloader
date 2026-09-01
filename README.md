@@ -30,8 +30,10 @@ Download the latest version from the [Releases](../../releases) page.
 
 YouTubeDownloader\
 ├── YouTubeDownloader.exe
+
 └── YouTubeDownloaderUpdater\
-    └── (YouTubeDownloaderUpdater.exe, etc.)
+
+└── (YouTubeDownloaderUpdater.exe, etc.)
 Don't rename or move any of these — the app looks for them right next to itself.
 
 ## 3. Run it
